@@ -38,40 +38,6 @@ This app allows users to search for available buses, make reservations, and mana
 
 ---
 
-## Screenshots
-
-Include key screenshots of the app’s UI here, such as the following examples:
-
-| Admin Login                                                                | User sign up                                                               |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="screen_shot/admin_login.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/sign_up.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin Drawer                                                               | User drawer menu                                                           |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="screen_shot/admin_drawer.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_drawer_menu.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin add bus                                                               | User Bus Search |
-|-----------------------------------------------------------------------------| --------------- |
-| <img src="screen_shot/add_bus.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_bus_search.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin add city                                                         | User search result                                                         |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="screen_shot/add_city.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_search_result.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin add schedule                                                          | User seat plan                                                             |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="screen_shot/add_schedule.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_seat_plan.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin reservation list                                                                | User seat plan                                                                  |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| <img src="screen_shot/admin_reservation_list.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_seat_plan_1.png" alt="Admin Dashboard" width="300"/> |
-
-| Admin all schedule                                                          | User booking confirm                                                       |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="screen_shot/all_schedule.png" alt="Admin Dashboard" width="300"/> | <img src="screen_shot/user_booking_confirm.png" alt="Admin Dashboard" width="300"/> |
-
----
-
 ## Key Libraries
 
 Here are the core libraries used in the Flutter project to build the frontend and interact with the Spring Boot API:
@@ -91,7 +57,7 @@ Here are the core libraries used in the Flutter project to build the frontend an
 
 Clone the backend repository:
 
-[https://github.com/Developer199239/spring-boot-bus-reservation-api.git](https://github.com/Developer199239/spring-boot-bus-reservation-api.git)
+[https://github.com/akash-0078/bus-reservation-api](https://github.com/akash-0078/bus-reservation-api)
 
 ## Contributing
 
