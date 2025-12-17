@@ -8,7 +8,6 @@ This project is a **Flutter** mobile application that integrates with a **Spring
 
 - [Description](#description)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Key Libraries](#key-libraries)
 - [Contributing](#contributing)
 
@@ -59,13 +58,4 @@ Clone the backend repository:
 
 [https://github.com/akash-0078/bus-reservation-api](https://github.com/akash-0078/bus-reservation-api)
 
-## Contributing
 
-We welcome contributions from developers who want to improve the project! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Added feature-name'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a Pull Request.   
-  
